@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SBPVP v.1.0/Scenes/Test Scene.unity
+  isLoaded: 1
+  isActive: 1
